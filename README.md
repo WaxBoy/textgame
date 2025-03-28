@@ -1,5 +1,7 @@
 # Text-Based RPG Adventure Game
 
+## !!! This game was created entirely using ChatGPT 4.0 !!!
+
 Welcome to the Text-Based RPG Adventure Game! In this game, you create a character and embark on an adventure, making choices that affect the outcome of the story. You'll encounter various locations, enemies, and items as you progress.
 
 ## Table of Contents
